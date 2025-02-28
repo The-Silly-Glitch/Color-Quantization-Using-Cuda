@@ -1,0 +1,7 @@
+numpy
+cupy-cuda12x
+torch
+torchvision
+tk
+pillow
+matplotlib
